@@ -1,33 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T22:59:37.176Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SFHYrwq1Gx0mAftfqbEE" version="22.1.5" type="github">
-  <diagram name="Page-1" id="JixMn7Ev7ePH69cxRuLG">
-    <mxGraphModel dx="1434" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-03-14T21:56:32.227Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.6" etag="BGRkAXZqG7hc9Ex5Al5V" type="github">
+  <diagram name="Page-1" id="HiKy-yhp1-AxSScArU9-">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Q0d8MMlJXwyxKqdO6czs-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="180" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0d8MMlJXwyxKqdO6czs-2" value="Client&lt;br&gt;Web Browser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="190" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0d8MMlJXwyxKqdO6czs-5" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
-          <mxGeometry x="260" y="160" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0d8MMlJXwyxKqdO6czs-6" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
-          <mxGeometry x="260" y="210" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0d8MMlJXwyxKqdO6czs-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="530" y="118.75" width="170" height="212.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0d8MMlJXwyxKqdO6czs-8" value="&lt;b&gt;Server(Web Server)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="80" width="160" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0d8MMlJXwyxKqdO6czs-9" value="&lt;b&gt;Request&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="155" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0d8MMlJXwyxKqdO6czs-10" value="&lt;b&gt;Response&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="250" width="80" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
