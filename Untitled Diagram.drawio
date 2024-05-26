@@ -1,63 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T22:43:23.754Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="rT0bUjmWm6sCyzZ05FuC" version="24.0.6" type="github">
-  <diagram name="Page-1" id="HiKy-yhp1-AxSScArU9-">
-    <mxGraphModel dx="954" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-05-26T05:18:13.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.2.0" etag="a3hI7Xv7fcJ1QJ23S0FU" type="github">
+  <diagram name="Page-1" id="gfVpHqE3XM1QWfpt_zMO">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-1" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Application&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;comic=1;jiggle=2;sketch=1;curveFitting=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="191.25" y="210" width="340" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-2" value="" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png;comic=1;jiggle=2;sketch=1;curveFitting=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="191.25" y="210" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-3" value="&lt;b&gt;London DC1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;comic=1;jiggle=2;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;labelBackgroundColor=none;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="186.25" y="280" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workspaces;fillColor=#FFE45E;gradientDirection=north;comic=1;jiggle=2;sketch=1;curveFitting=1;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="82.5" height="94.5" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;comic=1;jiggle=2;sketch=1;curveFitting=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="410" width="90.54" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-8" value="Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;comic=1;jiggle=2;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;labelBackgroundColor=none;fontColor=#5AA9E6;" vertex="1" parent="1">
-          <mxGeometry x="330" y="477" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;comic=1;jiggle=2;sketch=1;curveFitting=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="210" width="340" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-10" value="" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png;comic=1;jiggle=2;sketch=1;curveFitting=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="210" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-11" value="&lt;b&gt;London DC2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;comic=1;jiggle=2;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;labelBackgroundColor=none;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="280" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;comic=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410.53999999999996" y="442.5" as="sourcePoint" />
-            <mxPoint x="720" y="443" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-17" value="Standby Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#5AA9E6;" vertex="1" parent="1">
-          <mxGeometry x="735.27" y="477" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-18" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#FFE45E;strokeColor=#FF6392;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api;rounded=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#5AA9E6;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="290" width="50" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#5AA9E6;fillColor=#FFE45E;strokeWidth=3;" edge="1" parent="1" source="qg5xYp_iI3LUDml-Pl3Y-26" target="qg5xYp_iI3LUDml-Pl3Y-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-26" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;comic=1;jiggle=2;sketch=1;curveFitting=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="410" width="90.54" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-27" value="Synchronous replication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#4182b4;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="520" y="410" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#FF6392;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#5AA9E6;fillColor=#FFE45E;" vertex="1" parent="1">
-          <mxGeometry x="735.27" y="280" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qg5xYp_iI3LUDml-Pl3Y-31" value="Snapshot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#5AA9E6;" vertex="1" parent="1">
-          <mxGeometry x="735.27" y="299" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
